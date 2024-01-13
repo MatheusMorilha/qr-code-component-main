@@ -1,5 +1,7 @@
 # Frontend Mentor - QR code component
 
+VEJA COMO FICOU O RESULTADO: https://matheusmorilha.github.io/qr-code-component-main/
+
 ![Design preview for the QR code component coding challenge](./design/desktop-preview.jpg)
 
 ## Welcome! 👋
