@@ -1,0 +1,21 @@
+@media (max-width: 450px){
+    .container{
+        width: 280px;
+        height: auto;
+    }
+
+    .imageQr>img{
+        width: 280px;
+        height: 280px;
+    }
+
+    .title>h2{
+        font-size: 22px;
+        width: 90%;
+    }
+
+    .text>p{
+        font-size: 14px;
+        width: 85%;
+    }
+}
